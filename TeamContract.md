@@ -70,6 +70,9 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 
 (type names here)
+
 **Matthew Giacomini**
+
 **Abdullah Bajandoh**
+
 **Syed Rayyan Hussain**
