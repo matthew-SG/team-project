@@ -78,3 +78,5 @@ Team Member Signatures:
 **Syed Rayyan Hussain**
 
 **Adish Singh**
+
+**Jingtian Hu**
