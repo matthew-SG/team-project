@@ -82,3 +82,5 @@ Team Member Signatures:
 **Jingtian Hu**
 
 **Zi Jin**
+
+**Taaha Waseem**
